@@ -1,6 +1,6 @@
 # Background
 
-CheckDeck is a CRUD application created using MERN technologies. It has three parts where admin can create users, asign tasks to users, and update/delete the tasks. I have used bootstrap for the layout as my primary goal was to learn the development with MERN stack.
+CheckDeck is a CRUD application created using MERN technologies. It has three parts where admin can create users, assign tasks to users, and update/delete the tasks. I have used bootstrap for the layout as my primary goal was to learn the development with MERN stack.
 
 # Project Screenshots
 
