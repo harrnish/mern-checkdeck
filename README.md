@@ -1,3 +1,20 @@
+# Background
+
+CheckDeck is a CRUD application created using MERN technologies. It has three parts where admin can create users, asign tasks to users, and update/delete the tasks. I have used bootstrap for the layout as my primary goal was to learn the development with MERN stack.
+
+# Project Screenshots
+
+![](screenshots/screenshot-one.png)
+![](screenshots/screenshot-two.png)
+![](screenshots/screenshot-three.png)
+
+# Built With:
+
+1. MongoDB: An object-oriented, simple, dynamic, and scalable NoSQL database.
+2. ExpressJS: A free and open-source web application framework for NodeJS.
+3. React: Open-source JavaScript library that is used for building user interfaces.
+4. NodeJS: A platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
